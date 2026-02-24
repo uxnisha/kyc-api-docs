@@ -1,4 +1,4 @@
-# kyc-api-docs
+
 # Learning Log — Nisha S
 ## API Technical Writer
 **Started:** February 2026
